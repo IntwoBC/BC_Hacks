@@ -9,6 +9,7 @@ pageextension 50149 CustomerListExt extends "Bank Payment Voucher"
         modify(Card_Promoted)
         {
             Visible = false;
+            //Added one line comment
         }
     }
 
